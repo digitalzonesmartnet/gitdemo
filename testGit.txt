@@ -1,2 +1,3 @@
 
-this is my 1st git file -- test 1
+this is my 1st git file -- test 
+update 1
